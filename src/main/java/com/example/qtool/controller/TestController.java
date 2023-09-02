@@ -14,7 +14,7 @@ public class TestController {
     public String testController() {
         System.out.println("hello, world");
         System.out.println("so boring");
-        return "hello, world";
+        return "hello, I am success";
     }
 
 }
